@@ -16,7 +16,7 @@ else:
     print("Incorrect!")
 
 answer = input("What does GPU stand for? ")
-if answer.lower() == "praphics processing unit":
+if answer.lower() == "graphics processing unit":
     print("Correct!")
     score += 1
 else:
